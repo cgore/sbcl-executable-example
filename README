@@ -1,0 +1,2 @@
+This is a simple example of how to make a binary in SBCL.
+Run make-hello-world and then there will be a hello-world executable.
